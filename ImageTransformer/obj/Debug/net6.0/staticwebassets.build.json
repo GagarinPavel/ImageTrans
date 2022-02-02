@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PFVy3ijA8a5KIjTPrq1bsG6wsWqF5++SW5Ug3oEE/8k=",
+  "Source": "ImageTransformer",
+  "BasePath": "_content/ImageTransformer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImageTransformer\\wwwroot",
+      "Source": "ImageTransformer",
+      "ContentRoot": "C:\\projects\\ImageTransformer\\ImageTransformer\\wwwroot\\",
+      "BasePath": "_content/ImageTransformer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
